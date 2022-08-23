@@ -9,3 +9,5 @@ L = 0.1m -> V = 0.6928
 L = 0.3m -> V = 0.9600
 
 Then one can calculate the retrieved visibilities by fitting the visibility equation to the interference patterns using the script "retrieve visibility". The fitted equation, however, does not include the BW contribution, so we have to see up to which BW the retrieved visibility corresponds to the real visibility. This is seen in the plot.
+
+The plot_spectrum script plots the spectrum extracted from spectra.
